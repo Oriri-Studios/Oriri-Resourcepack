@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 305001}, "model": "item/paper/305001" }
+	]
+}
