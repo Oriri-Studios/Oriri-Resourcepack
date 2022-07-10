@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [ { "model": "block/cobbled_deepslate/0", "weight":40 }
+,{ "model": "block/cobbled_deepslate/1", "weight":20 }
+,{ "model": "block/cobbled_deepslate/2", "weight":20 }
+,{ "model": "block/cobbled_deepslate/3", "weight":20 }
+,{ "model": "block/cobbled_deepslate/4", "weight":20 }
+
+ ]   }
+}

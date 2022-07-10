@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "block/deepslate_iron_ore/0", "weight":4 }
+,{ "model": "block/deepslate_iron_ore/1", "weight":3 }
+,{ "model": "block/deepslate_iron_ore/2", "weight":3 }
+,{ "model": "block/deepslate_iron_ore/3", "weight":3 }
+
+ ]   }
+}
