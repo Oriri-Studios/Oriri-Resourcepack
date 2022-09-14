@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/apple.png",
+            "ascent": 90,
+            "height": 90,
+            "chars": ["\uE000"]
+        }
+    ]
+}
