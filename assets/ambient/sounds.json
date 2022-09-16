@@ -1,0 +1,20 @@
+{
+   "heartbeat": {
+    "sounds": [
+      {
+        "name":"heartbeat",
+        "stream" : true
+      },
+      "oririambient:heartbeat"
+    ]
+  },
+   "warp_sound": {
+    "sounds": [
+      {
+        "name":"warp_sound",
+        "stream" : true
+      },
+      "oririambient:warp_sound"
+    ]
+  }
+}
