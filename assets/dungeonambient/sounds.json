@@ -1,1 +1,11 @@
-{}
+{
+   "dungeon_start": {
+    "sounds": [
+      {
+        "name":"dungeon_start",
+        "stream" : true
+      },
+      "oriridungeonambient:dungeon_start"
+    ]
+  }
+}
