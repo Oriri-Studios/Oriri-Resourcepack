@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom/armor/gilded_nethetrite_armor/leggings",
+        	"layer1": "custom/armor/gilded_nethetrite_armor/leggings"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom/armor/ancient_armor/chestplate",
+        	"layer1": "custom/armor/ancient_armor/chestplate"
+	}
+}
