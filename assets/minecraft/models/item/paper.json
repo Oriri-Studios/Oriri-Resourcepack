@@ -4,6 +4,29 @@
 		"layer0": "item/paper"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 305001}, "model": "item/paper/305001" }
+		{ "predicate": { "custom_model_data": 305001}, "model": "item/paper/artifact/bound_of_the_celestial_sisters" },
+		{ "predicate": { "custom_model_data": 305002}, "model": "item/paper/artifact/candy_bag" },
+		{ "predicate": { "custom_model_data": 305003}, "model": "item/paper/artifact/duellant_cortex" },
+		{ "predicate": { "custom_model_data": 305004}, "model": "item/paper/artifact/ender_eye" },
+		{ "predicate": { "custom_model_data": 305005}, "model": "item/paper/artifact/heart_of_the_tank" },
+		{ "predicate": { "custom_model_data": 305006}, "model": "item/paper/artifact/ice_skates" },
+		{ "predicate": { "custom_model_data": 305007}, "model": "item/paper/artifact/krit_gloves" },
+		{ "predicate": { "custom_model_data": 305008}, "model": "item/paper/artifact/mana_heart" },
+		{ "predicate": { "custom_model_data": 305009}, "model": "item/paper/artifact/phoenix_feather" },
+		{ "predicate": { "custom_model_data": 305010}, "model": "item/paper/artifact/plushie_of_mine" },
+		{ "predicate": { "custom_model_data": 305011}, "model": "item/paper/artifact/pyro_vision" },
+		{ "predicate": { "custom_model_data": 305012}, "model": "item/paper/artifact/soul_bind" },
+		{ "predicate": { "custom_model_data": 305013}, "model": "item/paper/artifact/spring" },
+		{ "predicate": { "custom_model_data": 305014}, "model": "item/paper/artifact/wither_rose" },
+
+		{ "predicate": { "custom_model_data": 305030}, "model": "item/paper/scepter/1000_voices" },
+		{ "predicate": { "custom_model_data": 305031}, "model": "item/paper/scepter/almightyscepter" },
+		{ "predicate": { "custom_model_data": 305032}, "model": "item/paper/scepter/scepter_of_the_cosmos" },
+		{ "predicate": { "custom_model_data": 305033}, "model": "item/paper/scepter/scepter_of_the_eternal_ice" },
+		{ "predicate": { "custom_model_data": 305034}, "model": "item/paper/scepter/scepter_of_the_forest" },
+		{ "predicate": { "custom_model_data": 305035}, "model": "item/paper/scepter/scepter_of_the_hell" },
+		{ "predicate": { "custom_model_data": 305036}, "model": "item/paper/scepter/scepter_of_the_soil" },
+		{ "predicate": { "custom_model_data": 305037}, "model": "item/paper/scepter/scepter_of_the_void" },
+		{ "predicate": { "custom_model_data": 305038}, "model": "item/paper/scepter/scepter_of_the_wise" }
 	]
 }
