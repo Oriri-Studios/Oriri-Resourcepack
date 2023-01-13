@@ -1,0 +1,30 @@
+{
+  "ambient.heartbeat": {
+    "subtitle": "Heartbeat",
+    "sounds": [
+      {
+        "name": "mcoriri:ambient/heartbeat",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.warp_sound": {
+    "subtitle": "Warping Sound",
+    "sounds": [
+      {
+        "name": "mcoriri:ambient/warp_sound",
+        "stream": true
+      }
+    ]
+  },
+  
+  "dungeon.dungeon_start": {
+    "subtitle": "Dungeon starting",
+    "sounds": [
+      {
+        "name": "mcoriri:dungeon/dungeon_start",
+        "stream": true
+      }
+    ]
+  }
+}
