@@ -4,6 +4,6 @@
 		"layer0": "item/iron_pickaxe"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 305001}, "model": "item/iron_pickaxe/hammer" }
+		{ "predicate": { "custom_model_data": 305000}, "model": "item/iron_pickaxe/hammer" }
 	]
 }
