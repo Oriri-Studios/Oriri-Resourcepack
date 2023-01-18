@@ -34,6 +34,8 @@
 		{ "predicate": { "custom_model_data": 305105}, "model": "item/paper/scepter/scepter_of_the_hell" },
 		{ "predicate": { "custom_model_data": 305106}, "model": "item/paper/scepter/scepter_of_the_soil" },
 		{ "predicate": { "custom_model_data": 305107}, "model": "item/paper/scepter/scepter_of_the_void" },
-		{ "predicate": { "custom_model_data": 305108}, "model": "item/paper/scepter/scepter_of_the_wise" }
+		{ "predicate": { "custom_model_data": 305108}, "model": "item/paper/scepter/scepter_of_the_wise" },
+
+		{ "predicate": { "custom_model_data": 305200}, "model": "item/paper/sword/stella_perditor" }
 	]
 }
