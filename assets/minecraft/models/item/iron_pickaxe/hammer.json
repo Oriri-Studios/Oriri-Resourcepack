@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/tool/pickaxe/hammer"
+		"0": "custom/tool/pickaxe/hammer",
+		"particle": "custom/tool/pickaxe/hammer"
 	},
 	"elements": [
 		{
@@ -208,12 +209,12 @@
 			"translation": [-7.5, 5.5, 2.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [135, 0, -90],
-			"translation": [9, 1.25, -3]
+			"rotation": [134.02, 10.52, -79.28],
+			"translation": [14, 1.25, -1]
 		},
 		"firstperson_lefthand": {
-			"rotation": [135, 0, 90],
-			"translation": [-6.5, 1.25, -3]
+			"rotation": [130.86, 12.11, 105.06],
+			"translation": [-0.75, 1.75, -4.75]
 		},
 		"ground": {
 			"rotation": [-89, 46, -1],
