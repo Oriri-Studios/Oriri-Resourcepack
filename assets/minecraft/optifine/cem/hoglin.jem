@@ -1,0 +1,19 @@
+{  
+    "models": [
+	    {
+		    "part": "body",
+			"id": "health_bar",
+			"model": "hoglin_health_bar.jpm",
+			"translate": [0, 0, -9.5],
+			"scale": "1.5",
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.ty": "-17.5 + if(is_child,-8,0)",
+				   "health_bar.ry": "player_rot_y - rot_y",
+				   "health_bar.rx": "player_rot_x"
+		        }  
+		    ]
+		}
+	]
+}

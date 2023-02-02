@@ -1,0 +1,3 @@
+This ResourcePack uses som textures from:
+
+CUSTOM_HEALTBARS - https://www.curseforge.com/minecraft/texture-packs/spryzeens-health-bars

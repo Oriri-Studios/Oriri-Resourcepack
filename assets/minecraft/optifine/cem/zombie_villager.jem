@@ -1,0 +1,20 @@
+{
+    "models": [
+	    {
+		    "part": "body",
+			"id": "health_bar",
+			"model": "zombie_villager_health_bar.jpm",
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.ry": "player_rot_y - rot_y + torad(180)",
+				   "health_bar.rx": "-player_rot_x",
+				   "health_bar.ty": "-16 + if(is_child,-7,0)",
+				   "health_bar.sx": "if(is_child,1.7,1)",
+				   "health_bar.sy": "if(is_child,1.7,1)",
+				   "health_bar.sz": "if(is_child,1.7,1)"
+		        }
+		    ]
+		}
+	]
+}

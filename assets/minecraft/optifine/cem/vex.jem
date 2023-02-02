@@ -1,0 +1,18 @@
+{  
+    "models": [
+	    {
+		    "part": "head",
+			"id": "health_bar",
+			"model": "vex_health_bar.jpm",
+			"translate": [0, -24, 0],
+            "attach": "true",
+			"scale": "2.5",
+			"animations": [
+	            {
+		           "health_bar.ry": "player_rot_y - rot_y - head.ry + torad(180)",
+				   "health_bar.rx": "-(player_rot_x + head.rx)"
+		        }
+		    ]
+		}
+	]
+}

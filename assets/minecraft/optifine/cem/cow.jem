@@ -1,0 +1,21 @@
+{  
+    "models": [
+	    {
+		    "part": "body",
+			"id": "health_bar",
+			"model": "cow_health_bar.jpm",
+			"translate": [0, -3, 0],
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.tz": "11 + if(is_child,8,0)",
+				   "health_bar.rz": "-(player_rot_y - rot_y)",
+				   "health_bar.rx": "player_rot_x - torad(90)",
+				   "health_bar.sx": "if(is_child,1.8,1)",
+				   "health_bar.sy": "if(is_child,1.8,1)",
+				   "health_bar.sz": "if(is_child,1.8,1)"
+		        }
+		    ]
+		}
+	]
+}

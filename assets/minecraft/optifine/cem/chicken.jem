@@ -1,0 +1,22 @@
+{  
+    "models": [
+	    {
+		    "part": "body",
+			"id": "health_bar",
+			"model": "chicken_health_bar.jpm",
+			"translate": [0, 0, -1.5],
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.tz": "12.5 + if(is_child,8.5,0)",
+				   "health_bar.ty": "-3 + if(is_child,-3,0)",
+				   "health_bar.rz": "-(player_rot_y - rot_y)",
+				   "health_bar.rx": "player_rot_x - torad(90)",
+				   "health_bar.sx": "if(is_child,1.8,1)",
+				   "health_bar.sy": "if(is_child,1.8,1)",
+				   "health_bar.sz": "if(is_child,1.8,1)"
+		        }
+            ]				
+		}
+	]
+}

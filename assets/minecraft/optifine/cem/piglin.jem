@@ -1,0 +1,20 @@
+{
+    "models": [
+	    {
+		    "part": "body",
+			"id": "health_bar",
+			"model": "piglin_health_bar.jpm",
+            "attach": "true",
+			"animations": [
+	            {
+		           "health_bar.ry": "player_rot_y - rot_y",
+				   "health_bar.rx": "player_rot_x - rot_x + head.rx",
+				   "health_bar.ty": "-13 + if(is_child,-7,0)",
+				   "health_bar.sx": "if(is_child,1.7,1)",
+				   "health_bar.sy": "if(is_child,1.7,1)",
+				   "health_bar.sz": "if(is_child,1.7,1)"
+		        }
+		    ]
+		}
+	]
+}
