@@ -3,7 +3,7 @@
     "subtitle": "Heartbeat",
     "sounds": [
       {
-        "name": "mcoriri:ambient/heartbeat",
+        "name": "oriricore_music:ambient/heartbeat",
         "stream": false
       }
     ]
@@ -12,7 +12,7 @@
     "subtitle": "Warping Sound",
     "sounds": [
       {
-        "name": "mcoriri:ambient/warp_sound",
+        "name": "oriricore_music:ambient/warp_sound",
         "stream": true
       }
     ]
@@ -22,7 +22,7 @@
     "subtitle": "Dungeon starting",
     "sounds": [
       {
-        "name": "mcoriri:dungeon/dungeon_start",
+        "name": "oriricore_music:dungeon/dungeon_start",
         "stream": true
       }
     ]
