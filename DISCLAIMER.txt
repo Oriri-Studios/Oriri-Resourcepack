@@ -1,3 +1,5 @@
 This ResourcePack uses som textures from:
 
 CUSTOM_HEALTBARS - https://www.curseforge.com/minecraft/texture-packs/spryzeens-health-bars
+CUSTOM_AMBIENT_BACKGROUND - https://www.planetminecraft.com/texture-pack/navila-sky-pack-animated-aurora-borealis-shooting-stars-galaxies/
+SOME_ANIMATED_TEXTURES - https://www.planetminecraft.com/texture-pack/astraliyte-s-animated-textures/
