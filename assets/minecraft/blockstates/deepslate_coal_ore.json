@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [ { "model": "block/deepslate_coal_ore/0", "weight":5 }
-,{ "model": "block/deepslate_coal_ore/1", "weight":3 }
-,{ "model": "block/deepslate_coal_ore/2", "weight":1 }
-,{ "model": "block/deepslate_coal_ore/3", "weight":3 }
- ]   }
-}
