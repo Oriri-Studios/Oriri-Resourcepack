@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "custom/armor/iredecent_blue_ice_armor/boots",
-        	"layer1": "custom/armor/iredecent_blue_ice_armor/boots"
-	}
-}

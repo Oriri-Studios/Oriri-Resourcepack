@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "custom/armor/prismarine_armor/helmet",
-        	"layer1": "custom/armor/prismarine_armor/helmet"
-	}
-}

@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "custom/tool/scepter/scepter_of_the_forest"
-	}
-}
