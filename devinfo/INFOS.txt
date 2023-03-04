@@ -1,0 +1,3 @@
+Alle Customitems haben einen CustomModelID Index beginnend von 305000 
+
+Alle CustomFonts haben einen FontID Index beginnend von \uE000
