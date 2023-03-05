@@ -19,10 +19,19 @@
   },
   
   "dungeon.dungeon_start": {
-    "subtitle": "Dungeon starting",
+    "subtitle": "Dungeon Starting",
     "sounds": [
       {
         "name": "oriricore_music:dungeon/dungeon_start",
+        "stream": true
+      }
+    ]
+  },
+  "dungeon.boss_defeated": {
+    "subtitle": "Boss Defeated",
+    "sounds": [
+      {
+        "name": "oriricore_music:dungeon/boss_defeated",
         "stream": true
       }
     ]
