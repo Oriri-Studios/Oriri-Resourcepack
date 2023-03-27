@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/elytra"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/elytra/raven_elytra" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/elytra/dragon_elytra" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/elytra/matrix_elytra" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/elytra/phantom_elytra" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/elytra/steampunk_elytra" }
+	]
+}
