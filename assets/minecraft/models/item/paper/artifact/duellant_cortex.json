@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/duellant_cortex"
+		"layer0": "oriricore:item/artifact/duellant_cortex"
 	}
 }

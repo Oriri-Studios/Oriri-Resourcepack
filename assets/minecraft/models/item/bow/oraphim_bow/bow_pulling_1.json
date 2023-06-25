@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "custom/tool/bow/oraphim_bow/bow_pulling_1"
+        "layer0": "oriricore:item/tool/bow/oraphim_bow/bow_pulling_1"
     }
 }

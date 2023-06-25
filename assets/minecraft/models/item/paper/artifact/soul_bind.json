@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/soul_bind"
+		"layer0": "oriricore:item/artifact/soul_bind"
 	}
 }

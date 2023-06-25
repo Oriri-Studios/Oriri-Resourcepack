@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "custom/tool/scepter/almightyscepter"
+		"layer0": "oriricore:item/tool/scepter/almightyscepter"
 	}
 }

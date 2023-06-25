@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/armor/crystal_armor/boots",
-        	"layer1": "custom/armor/crystal_armor/boots"
+		"layer0": "oriricore:item/armor/crystal_armor/boots",
+        	"layer1": "oriricore:item/armor/crystal_armor/boots"
 	}
 }

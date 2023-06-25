@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/armor/crystal_armor/helmet",
-        	"layer1": "custom/armor/crystal_armor/helmet"
+		"layer0": "oriricore:item/armor/crystal_armor/helmet",
+        	"layer1": "oriricore:item/armor/crystal_armor/helmet"
 	}
 }

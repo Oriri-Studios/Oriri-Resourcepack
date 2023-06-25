@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/solis_broosh"
+		"layer0": "oriricore:item/artifact/solis_broosh"
 	}
 }

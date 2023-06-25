@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/stigma_of_the_architect"
+		"layer0": "oriricore:item/artifact/stigma_of_the_architect"
 	}
 }

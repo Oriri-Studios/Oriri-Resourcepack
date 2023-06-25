@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/pyro_vision"
+		"layer0": "oriricore:item/artifact/pyro_vision"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/bound_of_the_celestial_sisters"
+		"layer0": "oriricore:item/artifact/bound_of_the_celestial_sisters"
 	}
 }

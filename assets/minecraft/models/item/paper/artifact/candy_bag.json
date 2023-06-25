@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/artifact/candy_bag"
+		"layer0": "oriricore:item/artifact/candy_bag"
 	}
 }

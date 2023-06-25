@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "custom/elytra/raven_elytra/elytra"
+		"layer0": "oriricore:item/elytra/raven_elytra/elytra"
 	}
 }
