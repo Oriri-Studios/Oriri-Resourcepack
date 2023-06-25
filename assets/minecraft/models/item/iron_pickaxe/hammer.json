@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/tool/pickaxe/hammer",
-		"particle": "custom/tool/pickaxe/hammer"
+		"0": "oriricore:tool/pickaxe/hammer",
+		"particle": "oriricore:tool/pickaxe/hammer"
 	},
 	"elements": [
 		{
@@ -241,6 +241,7 @@
 			"name": "Handle",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 		},
 		15

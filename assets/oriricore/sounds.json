@@ -3,16 +3,16 @@
     "subtitle": "Heartbeat",
     "sounds": [
       {
-        "name": "oriricore_music:ambient/heartbeat",
+        "name": "oriricore:ambient/heartbeat",
         "stream": false
       }
     ]
   },
   "ambient.warp_sound": {
-    "subtitle": "Warping Sound",
+    "subtitle": "Warping Noises",
     "sounds": [
       {
-        "name": "oriricore_music:ambient/warp_sound",
+        "name": "oriricore:ambient/warp_sound",
         "stream": true
       }
     ]
@@ -22,7 +22,7 @@
     "subtitle": "Dungeon Starting",
     "sounds": [
       {
-        "name": "oriricore_music:dungeon/dungeon_start",
+        "name": "oriricore:dungeon/dungeon_start",
         "stream": true
       }
     ]
@@ -31,7 +31,7 @@
     "subtitle": "Boss Defeated",
     "sounds": [
       {
-        "name": "oriricore_music:dungeon/boss_defeated",
+        "name": "oriricore:dungeon/boss_defeated",
         "stream": true
       }
     ]
